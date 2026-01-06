@@ -1,4 +1,4 @@
-# Write a program to find the factorila of given number using for loop
+# Write a program to find the factorial of given number using for loop
 
 n = int(input("Enter a number : "))
 
